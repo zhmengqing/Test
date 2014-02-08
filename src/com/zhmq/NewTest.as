@@ -7,7 +7,7 @@ package com.zhmq
 		public function NewTest()
 		{
 			super();
-			trace("new");
+			trace("new test");
 		}
 	}
 }

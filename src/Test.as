@@ -9,7 +9,7 @@ package
 		{
 			var txt:TextField = new TextField();
 			addChild(txt);
-			txt.text = "hello world"
+			txt.text = "hello world";
 		}
 	}
 }
